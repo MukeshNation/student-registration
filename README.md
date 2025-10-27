@@ -1,0 +1,1 @@
+This project is a simple Student Registration Portal made using HTML and CSS. It includes a form for students to enter their details like name, email, course, and year. The site uses semantic tags and is made live on GitHub Pages for online access.
